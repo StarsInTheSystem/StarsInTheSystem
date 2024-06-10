@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @StarsInTheSystem;
 
-- I'm currently studying;
 - currently want to try more coding;
 
 <!---
